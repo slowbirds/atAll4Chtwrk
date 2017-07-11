@@ -9,5 +9,5 @@ like a @channel on chatwork for Chrome.
 
 ## like this
 
-- <img src="https://github.com/slowbirds/atAll4Chtwrk/blob/feature/images_for_readme/images/sample/at_channel1.jpg" width="120">
-- ![](https://github.com/slowbirds/atAll4Chtwrk/blob/feature/images_for_readme/images/sample/at_channel2.jpg)
+- ![](https://github.com/slowbirds/atAll4Chtwrk/blob/master/images/sample/at_channel1.png)
+- ![](https://github.com/slowbirds/atAll4Chtwrk/blob/master/images/sample/at_channel2.png)
